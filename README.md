@@ -4,5 +4,6 @@
 
   # FUNCTIONALITIES
   - Users can borrow books wherby the date borrowed and promised date returned by the user will be saved to the SQL database.
+  - Users can choose books based on Type.
 
  All of the above markdown principles can be found in this [link](https://www.markdownguide.org/basic-syntax/)
